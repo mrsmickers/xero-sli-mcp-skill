@@ -166,3 +166,95 @@ When producing recurring management accounts, maintain a running context log (da
 - Owner drawing patterns
 
 This context log is THE key differentiator between a report and a management tool. Without it, you're just reading numbers. With it, you're providing insight.
+
+## QBRB Analysis — Quarterly Business Review Benchmarking
+
+When a user provides a QBRB report or asks to "analyse this SLI report" or "read my QBRB", work through the 8 QBRB analysis areas in order. Each area has a specific question to answer and a diagnostic purpose.
+
+### Analysis Framework
+
+Work through these 8 areas sequentially. For each area:
+1. State the key metric and its trend
+2. Compare against BIC targets
+3. Explain WHY the number is what it is (not just what it is)
+4. Identify the specific action needed
+
+#### 1. Balance Sheet Health
+**Question:** Is the balance sheet strong enough to fund growth?
+- Look at: cash position, current assets vs current liabilities, debt levels
+- Red flags: negative equity, current ratio < 1.5, high debt-to-equity
+- BIC: current ratio ≥ 2.0, minimal long-term debt
+
+#### 2. Revenue Income
+**Question:** Is revenue growing, and is it the right kind of revenue?
+- Look at: total revenue trend (quarter over quarter, year over year)
+- Break down by SLI category: managed services vs product vs project
+- Growing managed services revenue is the goal — product and project are less predictable
+- Red flags: declining revenue, over-reliance on one revenue type
+
+#### 3. Revenue Mix
+**Question:** Is the revenue mix shifting toward higher-value services?
+- Calculate: each SLI category as a percentage of total revenue
+- BIC revenue ratio (per $1 managed services): 40¢ cloud recurring, 35¢ physical product, 15¢ project labour
+- Track quarterly shifts — is managed services % increasing? Is product resale declining?
+- Red flags: managed services < 60% of total revenue, product resale > 40%
+
+#### 4. Gross Margin Income
+**Question:** Are gross margin pounds growing, and growing faster than revenue?
+- Look at: GM £ trend — must grow in absolute terms AND as a percentage
+- If revenue grows 10% but GM only grows 5%, the business is moving backwards
+- BIC: GM growth rate must match or exceed revenue growth rate
+- Red flags: flat or declining GM £, GM growing slower than revenue
+
+#### 5. Gross Margin Percentage
+**Question:** Is the business controlling cost of delivery and pricing for value?
+- GM% = (Revenue − Direct Costs) / Revenue × 100
+- For service revenue specifically, low GM% often means quality problems — more free re-work eating margin
+- BIC: MSP target ≥ 42%
+- Red flags: GM% declining over time, service GM% < 40%
+
+#### 6. Operating Expenses
+**Question:** Are we spending on the right things and is spend proportional to the business we're running?
+- Break into: Sales & Marketing, Admin & Management Payroll, Total OpEx
+- Lower OpEx £ is NOT always better — under-investing in sales kills growth
+- It is not possible to simply cut your way to prosperity: there must be growth as well
+- BIC: Sales expense ≤ 15% of revenue, G&A ≤ 12% of revenue
+
+#### 7. Operating Expenses as a Percentage of GM
+**Question:** Is the business growing GM faster than OpEx — or are expenses eating all the margin?
+- OpEx % of GM = Total OpEx / Gross Margin × 100
+- This is the key efficiency ratio: it tells you whether every £ of GM is being consumed by overhead
+- BIC: OpEx ≤ 70% of GM (leaving ≥ 30% for EBITDA)
+- Trend must be improving (decreasing) or stable — rising OpEx/GM ratio is a red flag even if absolute GM is growing
+
+#### 8. EBITDA and Adjusted EBITDA Percentage
+**Question:** Is the business generating real shareholder value?
+- EBITDA = GM − Total OpEx (essentially bottom-line profit)
+- Adjusted EBITDA = EBITDA with owner compensation normalised to market rate
+- EBITDA £ = ability to scale (absolute size of the profit pile)
+- EBITDA % = ability to operate efficiently (profit as a percentage of revenue)
+- Adjusted EBITDA % deserves as much or more attention than raw EBITDA % — it shows true operational efficiency
+- BIC: EBITDA ≥ 18%, Adjusted EBITDA ≥ 15%
+- Red flags: declining EBITDA trend, EBITDA % < 10%, large gap between EBITDA and Adjusted EBITDA
+
+### QBRB Output Structure
+
+After analysing all 8 areas, produce:
+
+1. **Executive Summary** — 3 bullets: what happened, what's changing, what to do
+2. **8-Area Scorecard** — each area with: metric, trend, BIC comparison, status (🟢 on track / 🟡 watch / 🔴 action needed)
+3. **Company Strengths** — what's working well
+4. **Questions** — what you need to dig into (things the numbers don't explain)
+5. **Actions** — numbered, specific, with owners and deadlines
+6. **Buy, Sell or Hold** — overall assessment: is this business worth investing more in, selling, or maintaining?
+
+### QBRB vs Monthly Management Accounts
+
+| Aspect | Monthly Accounts | QBRB Analysis |
+|---|---|---|
+| Frequency | Monthly | Quarterly |
+| Depth | Current month focus | Trend analysis over 4–8 quarters |
+| Purpose | Operational decisions | Strategic direction |
+| Output | Actions for this month | Buy/Sell/Hold verdict |
+| Benchmarking | vs last month + BIC | vs BIC + peer cohort + trend |
+| Key question | What happened? | Where is this business going? |

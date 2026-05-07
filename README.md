@@ -1,6 +1,6 @@
 # Xero + SLI MSP Financial Analysis Skill
 
-An [AgentSkills.io](https://agentskills.io)-compatible skill that analyses Xero financial data through the Service Leadership Index (SLI) account code framework, producing actionable management accounts — not just reports.
+A skill that analyses Xero financial data through the Service Leadership Index (SLI) account code framework, producing actionable management accounts — not just reports.
 
 ## What It Does
 

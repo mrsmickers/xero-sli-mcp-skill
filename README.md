@@ -30,21 +30,15 @@ The skill works alongside the `xero-accounting-mcp` MCP server, which provides f
 
 ## Installation
 
-### With any AgentSkills.io-compatible agent
+### With Claude Code
 
-Copy or clone this skill into your agent's skills directory:
+Copy or clone this skill into your Claude Code skills directory:
 
 ```bash
-# Claude Code
 cp -r xero-sli-mcp-skill ~/.claude/skills/
-
-# OpenCode
-cp -r xero-sli-mcp-skill ~/.opencode/skills/
-
-# Cursor, Copilot, Junie, etc. — check your agent's skills directory
 ```
 
-The agent reads the `SKILL.md` frontmatter `description` field and activates the skill when the task matches (financial analysis, P&L, management accounts, benchmarking, etc.).
+Claude reads the `SKILL.md` frontmatter `description` field and activates the skill when the task matches (financial analysis, P&L, management accounts, benchmarking, etc.).
 
 ### With Claude Desktop
 

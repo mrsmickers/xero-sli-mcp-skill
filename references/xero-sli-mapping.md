@@ -68,7 +68,7 @@ Where:
 - **Gross Margin** = Revenue − Direct Costs (COGS)
 - **Service Delivery Cost** = Engineer salaries + training + internal tooling
 
-Compare against your SLI benchmark data
+BIC Target: ≥1.4x
 
 ## Sales Multiple Calculation
 
@@ -80,7 +80,7 @@ Where:
 - **Total Revenue** = all SLI categories combined
 - **Total Sales Expense** = sales salaries + commissions + marketing
 
-Compare against your SLI benchmark data
+BIC Target: ≥6x
 
 ## G&A Percentage Calculation
 
@@ -88,7 +88,7 @@ Compare against your SLI benchmark data
 G&A % = G&A Expense / Total Revenue × 100
 ```
 
-Compare against your SLI benchmark data
+BIC Target: ≤12%
 
 ## Profit Percentage (Adjusted)
 
@@ -98,7 +98,7 @@ Adjusted Profit % = (Net Profit − Owner Drawings) / Revenue × 100
 
 Owner drawings are NOT in Xero — they're typically dividends + PAYE above market rate. Ask the business owner for their drawing amount per month.
 
-Compare against your SLI benchmark data
+BIC Target: ≥18%
 
 ## Common Xero Account Type Codes
 
